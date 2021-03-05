@@ -1,6 +1,6 @@
 ﻿Hello, I'm Tyler, a software engineer currently developing an app: [Music Note](https://www.music-note.app/), and making some cool stuaff at [Vakaros](https://www.vakaros.com/)
 
-I used to work on embedded systems, developing the UIs, but now I'm making my way into mobile and web development 🤘
+I'm obsessed with Flutter and I'm always looking for new Flutter things to work on!
 
 ### Currently Using
 
